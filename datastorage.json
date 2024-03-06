@@ -1,0 +1,77 @@
+[
+    {
+      "number": 1,
+      "model": "XL",
+      "price": 123,
+      "km": 0,
+      "options": [
+        "warranty",
+        "hook",
+        "speedometer"
+      ],
+      "extras": {
+        "powerSource": "gas",
+        "comments": "no comments",
+        "consumptionPer100km": 4
+      }
+    },
+    {
+      "number": 2,
+      "model": "GT",
+      "price": 200,
+      "km": 120000,
+      "options": [
+        "speedometer",
+        "hook",
+        "clock"
+      ],
+      "extras": {
+        "powerSource": "pedalling",
+        "comments": "no comments",
+        "consumptionPer100km": 6
+      }
+    },
+    {
+      "number": 3,
+      "model": "XXL",
+      "price": 15,
+      "km": 12000,
+      "options": [
+        "repair set",
+        "hook",
+        "radar"
+      ],
+      "extras": {
+        "powerSource": "hybrid",
+        "comments": "no comments",
+        "consumptionPer100km": 5
+      }
+    },
+    {
+      "number": 4,
+      "model": "GT",
+      "price": 123,
+      "km": 12000,
+      "options": [
+        "radar",
+        "hook",
+        "coffee warmer"
+      ],
+      "extras": {
+        "powerSource": "hybrid",
+        "comments": "-",
+        "consumptionPer100km": 7
+      }
+    },
+    {
+      "number": 5,
+      "model": "GT",
+      "price": 300,
+      "km": 0,
+      "options": [
+        "speedometer",
+        "hook",
+        "coffee warmer"
+      ]
+    }
+  ]
